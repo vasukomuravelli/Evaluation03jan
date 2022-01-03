@@ -1,0 +1,68 @@
+{
+  "recipe": [
+    {
+      "title": "paneer butter masala",
+      "Image": "https://b.zmtcdn.com/data/dish_photos/59c/b70afc9d4d55b920f1c23dc1acd1759c.jpg?fit=around|130:130&crop=130:130;*,*",
+      "Time": 45,
+      "Ingerdients": "Tomato, paneer oil, spices",
+      "Instructions": "1. Boil the tomato",
+      "id": 1
+    },
+    {
+      "Image": "https://b.zmtcdn.com/data/dish_photos/064/3599c76c8a8cf5248821c6216194d064.jpg?fit=around|130:130&crop=130:130;*,*",
+      "title": "Aloo paratha",
+      "Time": 60,
+      "Ingerdients": "Aloo, atta, oil",
+      "Instructions": "Make the dough",
+      "id": 2
+    },
+    {
+      "title": "Chicken Biryani",
+      "Image": "https://b.zmtcdn.com/data/dish_photos/8d5/d7345e3ff94ef00d9b2bfb6f436cf8d5.jpg?output-format=webp",
+      "Time": 90,
+      "Ingerdients": "Chicken, Basmati rice, Spices",
+      "Instructions": "Marinate the chicken",
+      "id": 3
+    },
+    {
+      "title": "French fries",
+      "Image": "https://b.zmtcdn.com/data/dish_photos/1f4/41d3348c52397d06e59f9aa73551d1f4.jpg?output-format=webp",
+      "Time": 25,
+      "Ingerdients": "Aloo,oil",
+      "Instructions": "Chop the aloo in finger shape.",
+      "id": 4
+    },
+    {
+      "Image": "https://b.zmtcdn.com/data/pictures/5/19054515/eccad98784965cc20254bc5ee5335b78_o2_featured_v2.jpg?output-format=webp",
+      "title": "Kababs",
+      "Time": 100,
+      "Ingerdients": "Chicken, Spices bbQ",
+      "Instructions": "Mince the chicken for easy marination",
+      "id": 5
+    },
+    {
+      "Image": "https://b.zmtcdn.com/data/pictures/1/94001/14a4b1a4a0340e3fa589b47ac040a93f_o2_featured_v2.jpg",
+      "title": "Cake",
+      "Time": 30,
+      "Ingerdients": "Eggs, Whipping cream, Maida",
+      "Instructions": "Beat the eggs and Measure",
+      "id": 6
+    },
+    {
+      "title": "Milkshake",
+      "Image": "https://b.zmtcdn.com/data/dish_photos/8ef/6ba3a3f892fc9d263c59d8ff8ac5c8ef.jpg?fit=around|130:130&crop=130:130;*,*",
+      "Time": 10,
+      "Ingerdients": "Milk, flavour, sugar",
+      "Instructions": "Boil the milk and mix the flavour",
+      "id": 7
+    },
+    {
+      "Image": "https://b.zmtcdn.com/data/pictures/2/18634662/357f6eea1ae7b944d92e461761a82855.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+      "title": "Idli Vada",
+      "Time": 15,
+      "Ingerdients": "urad dal",
+      "Instructions": "Soak urad dal in water for over night",
+      "id": 8
+    }
+  ]
+}

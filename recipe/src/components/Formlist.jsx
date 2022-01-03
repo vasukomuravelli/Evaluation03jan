@@ -1,6 +1,7 @@
 import React from 'react';
 
 export const Formlist = ({ title, Time, Image, id, getdata }) => {
+    console.log("data");
     const handleClick = (id) => {
         getdata(id);
     }

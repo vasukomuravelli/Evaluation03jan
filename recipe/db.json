@@ -63,6 +63,22 @@
       "Ingerdients": "urad dal",
       "Instructions": "Soak urad dal in water for over night",
       "id": 8
+    },
+    {
+      "title": "Shawarma",
+      "Image": "https://b.zmtcdn.com/data/dish_photos/647/c6a29732ec3d46b88f93945010cd0647.jpg?output-format=webp",
+      "Time": 35,
+      "Ingerdients": "Chicken , Atta, Mayonaise",
+      "Instructions": "Make the dough and keep the minced chicken pieces",
+      "id": 9
+    },
+    {
+      "title": "mandi",
+      "Time": 108,
+      "Ingerdients": "Chicken, dryfruits, basmati rice",
+      "Instructions": "Cook rice and chicken seperately",
+      "Image": "https://b.zmtcdn.com/data/dish_photos/398/1803cf2e80d302853bfc03d340aab398.jpg?output-format=webp",
+      "id": 11
     }
   ]
 }

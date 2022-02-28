@@ -79,6 +79,14 @@
       "Instructions": "Cook rice and chicken seperately",
       "Image": "https://b.zmtcdn.com/data/dish_photos/398/1803cf2e80d302853bfc03d340aab398.jpg?output-format=webp",
       "id": 11
+    },
+    {
+      "title": "Pizza",
+      "Image": "https://b.zmtcdn.com/data/dish_photos/c19/582a9eb67b713843137fded7a823ec19.jpg",
+      "Time": 28,
+      "Ingerdients": "dough, yeast, veggies, cheese,sauce",
+      "Instructions": "make the dough, fill it with veggies and cheese",
+      "id": 12
     }
   ]
 }
